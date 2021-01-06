@@ -1,3 +1,3 @@
 Das ist ein erster Test.
 
-Version 1.
+Version 2.
